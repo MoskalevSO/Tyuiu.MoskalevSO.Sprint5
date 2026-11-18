@@ -18,4 +18,4 @@ namespace Tyuiu.MoskalevSO.Sprint5.Task0.V16
             Console.WriteLine("Файл: " + path);
         }
     }
-}
+} 

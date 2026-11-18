@@ -16,4 +16,4 @@ namespace Tyuiu.MoskalevSO.Sprint5.Task0.V16.Test
             Assert.AreEqual(Math.Round(17 / Math.Sqrt(7), 3).ToString(), File.ReadAllText(path));
         }
     }
-}
+} 
